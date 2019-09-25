@@ -1,7 +1,4 @@
-// 'use strict';
-
-a = 5;
-console.log(a);
+'use strict';
 
 console.log(4/0);
 console.log('beare'/44);
